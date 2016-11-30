@@ -1,0 +1,6 @@
+The music used in this game is publically downloadable at 
+http://downloads.khinsider.com/
+
+start.mp3: "ＮＨＫ大河ドラマ　江 メイン?テーマ"
+easy.mp3: "BEYOND THE TIME SuperRobotWars αⅡ" contributed by 機動戦士ガンダム 逆襲のシャア
+hard.mp3: "Inevitable Struggle" contributed by Yukihiro Jindo
