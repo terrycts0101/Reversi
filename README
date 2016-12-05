@@ -30,13 +30,14 @@ Please refer to the LICENSE file.
     Date    | Version |    Details
 -------------------------------------------------------------------------------
  11/30/2016 |  v1.00  | Initial release.
+ 12/05/2016 |  v1.00  | Add game screenshots
 
 
 3) Introduction
 =================
 Reversi Game with AI Control
 -----------
-Reversi is a strategy board game for two players, played on an 8°¡8 uncheckered
+Reversi is a strategy board game for two players, played on an 8¬°√Å8 uncheckered
 board. There are sixty-four identical game pieces called disks (often spelled
 "discs"), which are light on one side and dark on the other. Players take turns
 placing disks on the board with their assigned color facing up. During a play,
@@ -70,6 +71,9 @@ Tiansong Cui <tcui@usc.edu>
 |--Music
     |-- *.mp3 -> music files played in the game
     `-- music_source.txt -> music names and contributors
+|--game_screenshots
+    `-- pre_game.jpg -> a screenshot of the pre-game window
+    `-- game.jpg -> a screenshot of the game window
 `-- LICENSE -> license file
 `-- Makefile -> makefile
 `-- main.py -> main program to start the reversi game
