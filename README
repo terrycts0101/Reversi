@@ -37,7 +37,7 @@ Please refer to the LICENSE file.
 =================
 Reversi Game with AI Control
 -----------
-Reversi is a strategy board game for two players, played on an 8¡Á8 uncheckered
+Reversi is a strategy board game for two players, played on an 8x8 uncheckered
 board. There are sixty-four identical game pieces called disks (often spelled
 "discs"), which are light on one side and dark on the other. Players take turns
 placing disks on the board with their assigned color facing up. During a play,
